@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="icon-192.png"
+   inkscape:export-xdpi="36"
+   inkscape:export-ydpi="36"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="2.265625"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch7"
+       inkscape:swatch="solid"
+       inkscape:label="present">
+      <stop
+         style="stop-color:#e4d605;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       id="swatch6"
+       inkscape:swatch="solid"
+       inkscape:label="present-dark">
+      <stop
+         style="stop-color:#464006;stop-opacity:1;"
+         offset="0"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="swatch5"
+       inkscape:swatch="solid"
+       inkscape:label="fg">
+      <stop
+         style="stop-color:#e0f0d5;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="swatch4"
+       inkscape:swatch="solid"
+       inkscape:label="correct-dark"
+       gradientTransform="translate(-81.759368,111.73568)">
+      <stop
+         style="stop-color:#22450b;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="swatch3"
+       inkscape:swatch="solid"
+       inkscape:label="correct"
+       gradientTransform="translate(-81.759368,111.73568)">
+      <stop
+         style="stop-color:#6ce713;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch5"
+       id="linearGradient5"
+       x1="151.74752"
+       y1="255.99999"
+       x2="360.25247"
+       y2="255.99999"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#030007;fill-opacity:1;stroke:none;stroke-linecap:round"
+       id="rect1"
+       width="512"
+       height="512"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Calque 2">
+    <rect
+       style="fill:url(#swatch4);fill-opacity:1;stroke:url(#swatch3);stroke-width:0.999998;stroke-opacity:1"
+       id="rect7"
+       width="200"
+       height="200"
+       x="260.25247"
+       y="64.507919"
+       rx="6"
+       ry="6" />
+    <rect
+       style="fill:url(#swatch6);fill-opacity:1;stroke:url(#swatch7);stroke-width:0.999998;stroke-opacity:1"
+       id="rect8"
+       width="200"
+       height="200"
+       x="59.252476"
+       y="265.5079"
+       rx="6"
+       ry="6" />
+    <text
+       xml:space="preserve"
+       style="font-size:261.333px;line-height:1.5;font-family:Merriweather;-inkscape-font-specification:Merriweather;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:url(#linearGradient5);fill-opacity:1;stroke:none;stroke-linecap:round"
+       x="130.82047"
+       y="347.49207"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="130.82047"
+         y="347.49207"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:261.333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:url(#linearGradient5);fill-opacity:1">M</tspan></text>
+  </g>
+</svg>

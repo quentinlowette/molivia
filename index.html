@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>Molivia</title>
+
+    <!-- Configuration PWA (Manifest) -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#030007">
+
+    <!-- Configuration spécifique iOS / SAFARI -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Molivia">
+    <link rel="apple-touch-icon" href="icons/icon-192.png">
+
+    <!-- Feuille de style -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Icons -->
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=event,fitness_center" />
+</head>
+
+<body>
+    <header>
+        <button id="mode-toggle-btn" class="btn" title="Changer de mode">
+            <span class="material-symbols-outlined"></span>
+        </button>
+
+        <h1>MOLIVIA</h1>
+        <h2 id="mode-subtitle">Entraînement</h2>
+
+        <div id="game-controls">
+            <button id="new-game-btn" class="btn new-btn">Nouvelle partie</button>
+
+            <button id="decrease-length" class="btn step-btn">-</button>
+            <span id="length-display">5</span>
+            <button id="increase-length" class="btn step-btn">+</button>
+        </div>
+    </header>
+    <main>
+        <div id="board" class="board"></div>
+        <div id="message-container"></div>
+    </main>
+    <footer>
+        <div id="keyboard" class="keyboard"></div>
+    </footer>
+
+    <script type="module" src="js/app.js"></script>
+</body>
+
+</html>
